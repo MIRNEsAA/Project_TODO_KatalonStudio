@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify  no of items and add items into list 
+Verify no ofitems before and after adding items into list</description>
+   <name>1_TC_Add Items to list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed94b8d9-6cf7-4501-b837-3a449908d2ee</testCaseGuid>
+</TestCaseEntity>

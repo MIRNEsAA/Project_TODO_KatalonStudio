@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify &quot;Select all&quot; works properly.</description>
+   <name>5_TC_Select All Items in list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39a6f5b5-6bb5-4a65-a31b-558ba9a84acc</testCaseGuid>
+</TestCaseEntity>

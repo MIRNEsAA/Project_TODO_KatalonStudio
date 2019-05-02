@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that option &quot;Clear completed&quot; is visible only if you have at least one item selected.</description>
+   <name>2_TC_Clear Completed Item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f861848-5933-4d99-a8c8-2090217a0f89</testCaseGuid>
+</TestCaseEntity>

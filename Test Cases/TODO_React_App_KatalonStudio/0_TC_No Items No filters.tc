@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that footer is not displyed without any added item.</description>
+   <name>0_TC_No Items No filters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1ab98bd-363c-4f98-bbc7-cfbb081d4b62</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify filters are showing items properly.</description>
+   <name>3_TC_Applied Filters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e92463c-b172-473f-8afb-9c4199e29895</testCaseGuid>
+</TestCaseEntity>

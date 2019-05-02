@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify  that selected filter are highlight.</description>
+   <name>6_TC_Filter Is Selected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e68e7aa8-05b0-4359-a89c-6845b4185789</testCaseGuid>
+</TestCaseEntity>

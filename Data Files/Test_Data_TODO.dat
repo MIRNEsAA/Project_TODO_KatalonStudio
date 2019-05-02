@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Data used for testing app.</description>
+   <name>Test_Data_TODO</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>dd30e752-d6a2-48a1-b0c0-ddecf1e4f921</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>1.+Wash+Hands</data>
+   <data>2.+Clean+Face</data>
+   <data>3.+Make+Coffee</data>
+   <data>4.+Make+Sendich</data>
+   <data>5.+Open+Window</data>
+   <data>6.+Check+News</data>
+   <data>7.+Get+Dressed</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Items_To_Add</name>
+      <size>7</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
